@@ -1,9 +1,9 @@
-/node_modules
-/src/sanity
-/.next
+node_modules
+src/sanity
+.next
 .env.local
 next-env.d.ts
 next.config.ts
 sanity.cli.ts
 sanity.config.ts
-/app/studio/
+src/app/studio\[[tool]]/

@@ -6,4 +6,4 @@ next-env.d.ts
 next.config.ts
 sanity.cli.ts
 sanity.config.ts
-src/app/studio\[[tool]]/
+src/app/studio

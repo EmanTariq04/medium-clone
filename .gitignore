@@ -6,4 +6,5 @@ next-env.d.ts
 next.config.ts
 sanity.cli.ts
 sanity.config.ts
+typings.d.ts
 src/app/studio
